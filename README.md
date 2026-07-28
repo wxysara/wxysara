@@ -2,12 +2,6 @@
 
 <div align="center">
 
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=6F42C1&customColorList=6F42C1,6F42C1&height=120&section=header&text=Sara%20Gon%C3%A7alves&fontSize=32&fontColor=ffffff&animation=twinkling)
-
-</div>
-
-<div align="center">
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
 
   <br />
