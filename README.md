@@ -1,11 +1,29 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&customColorList=7851A9,7851A9&height=180&section=header&text=Sara%20Gon%C3%A7alves&fontSize=38&fontColor=ffffff&animation=twinkling)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/MartinLaxenaire/images/master/planet.gif" width="30" height="30" /> Olá, eu sou a Sara! 👋
 
-Graduada em Sistemas para Internet 🎓
+<div align="center">
 
-Criando aplicações Web e buscando soluções inteligentes do front ao back-end.
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=6F42C1&customColorList=6F42C1,6F42C1&height=120&section=header&text=Sara%20Gon%C3%A7alves&fontSize=32&fontColor=ffffff&animation=twinkling)
 
- <img 
+</div>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
+
+  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-gonçalves-962655210)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.goncalvess89@gmail.com)
+
+</div>
+
+<br />
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -47,6 +65,22 @@ Criando aplicações Web e buscando soluções inteligentes do front ao back-end
 />
 <img 
     align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -77,4 +111,3 @@ Criando aplicações Web e buscando soluções inteligentes do front ao back-end
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
