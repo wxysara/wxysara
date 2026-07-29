@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinLaxenaire/images/master/planet.gif" width="30" height="30" /> Olá, eu sou a Sara! 👋
+# <img src="https://raw.githubusercontent.com/MartinLaxenaire/images/master/planet.gif" width="30" height="30" /> Sara Gonçalves 💟
 
 <div align="center">
 
