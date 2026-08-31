@@ -1,13 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinLaxenaire/images/master/planet.gif" width="30" height="30" /> Sara Gonçalves 💟
-
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
-
-  <br />
-
-</div>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
