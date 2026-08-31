@@ -1,5 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinLaxenaire/images/master/planet.gif" width="30" height="30" /> Sara Gonçalves 💟
----
 
 ### 🤖 Minhas Ferramentas & Tecnologias
 
