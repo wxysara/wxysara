@@ -1,6 +1,6 @@
 ### 🛠️ Tecnologias & Ferramentas
 
-#### Linguagens & Front-end
+#### Linguagens
 [![Stacks Front](https://skillicons.dev/icons?i=html,css,js,ts,react,python)](https://skillicons.dev)
 
 #### Mobile & Back-end / Banco de Dados
